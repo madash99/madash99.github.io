@@ -3,14 +3,14 @@
 
 A link to Juypiter Notebook Time Series in Pyton:
 
-(https://madash99.github.io/TimeSeriesExamples/M3TimeSeriesv2.jpynb)
+[Visit time series!](https://madash99.github.io/SampleContent/M3TimeSeriesv2.jpynb)
 
 A link to the same notebook referenced above, but this time renderedin html:
 
-(https://madash99.github.io/TimeSeriesExamples/M3TimeSeries.html)
+[See it in HTML!](https://madash99.github.io/SampleContent/M3TimeSeries.html)
 
 A link to a separate code repository focused on Coursera Homework from John Hopkin's Data Science Program.
 
-(https://github.com/madash99/Coursera-Homework)
+[See sample R code insted!](https://github.com/madash99/Coursera-Homework)
 
 
