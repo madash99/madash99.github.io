@@ -1,16 +1,13 @@
 # Portolio Page of Links
 
 
-A link to Juypiter Notebook Time Series in Pyton:
+[A link to Juypiter Notebook Time Series in Python](https://madash99.github.io/SampleContent/M3TimeSeriesv2.jpynb)
 
-[Visit time series!](https://madash99.github.io/SampleContent/M3TimeSeriesv2.jpynb)
 
-A link to the same notebook referenced above, but this time renderedin html:
+[A link to the same Notebook this time rendered in html!](https://madash99.github.io/SampleContent/M3TimeSeries.html)
 
-[See it in HTML!](https://madash99.github.io/SampleContent/M3TimeSeries.html)
 
-A link to a separate code repository focused on Coursera Homework from John Hopkin's Data Science Program.
 
-[See sample R code insted!](https://github.com/madash99/Coursera-Homework)
+[A sample repository of my R code for John Hopkins - Coursera - Data Science ](https://github.com/madash99/Coursera-Homework)
 
 
