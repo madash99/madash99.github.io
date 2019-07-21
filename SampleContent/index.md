@@ -4,7 +4,7 @@
 [A link to Juypiter Notebook Time Series in Python](https://madash99.github.io/SampleContent/M3TimeSeriesv2.jpynb)
 
 
-[A link to the same Notebook this time rendered in html!](https://madash99.github.io/SampleContent/M3TimeSeries.html)
+[A link to the same Notebook this time rendered in html!](https://madash99.github.io/SampleContent/M3TimeSeriesv2.html)
 
 
 
