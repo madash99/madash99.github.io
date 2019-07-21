@@ -8,6 +8,6 @@ Same notebook presented in HTML: [link](https://madash99.github.io/SampleContent
 
 
 
-Visit my R code repository for John Hopkins Coursera [link](https://github.com/madash99/Coursera-Homework)
+Visit my R code repository for John Hopkins Coursera: [link](https://github.com/madash99/Coursera-Homework)
 
 
