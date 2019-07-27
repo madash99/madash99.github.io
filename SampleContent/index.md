@@ -1,7 +1,7 @@
 # Portfolio Page of Links
 
 
-Sample timeseries analysis in Python in a Jupyter Notbook:  [link ](https://madash99.github.io/SampleContent/M3TimeSeriesv2.ipynb)
+Sample timeseries analysis in Python in a Jupyter Notebook:  [link ](https://madash99.github.io/SampleContent/M3TimeSeriesv2.ipynb)
 
 Same notebook presented in HTML: [link](https://madash99.github.io/SampleContent/M3TimeSeriesv2.html)
 
